@@ -1,0 +1,23 @@
+{
+  "name": "webpack-alpha5",
+  "version": "1.0.0",
+  "description": "test webpack 4.0.0 新特性实践",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "repository": "https://github.com/jdf2e/webpack4-demo",
+  "author": "大辉 <wangjianhui3@jd.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.0.0-alpha.5",
+    "webpack-cli": "^2.0.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
